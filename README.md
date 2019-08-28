@@ -13,3 +13,7 @@ Once all the dependencies are installed. You can run the below command
 
 ### node index.js
 
+Once the port is in listening state, you can acess the application using below URL
+
+### http://localhost:3000
+
