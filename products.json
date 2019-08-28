@@ -1,0 +1,108 @@
+{
+  "prodcutCollections": [
+    {
+      "id": "starwarsjedi",
+      "description": "A new third-person action-adventure Star Wars™ title from Respawn Entertainment",
+      "name": "Star Wars Jedi - Fallen Order",
+      "price": "60$",
+      "details": "Feel the Force - Hone lightsaber combat forms to refine striking, blocking, and dodging your enemies. Use your Jedi weapon and the Force to take on any challenge. A New Star Wars Story - As one of the last Jedi, you must do whatever it takes to survive. Complete your training before the Inquisitors discover your plan to rebuild the Jedi Order. The Galaxy Awaits - Explore ancient forests, windswept cliffs, and haunted jungles as you decide when and where you want to go next.",
+      "imageURL": "https://media.contentapi.ea.com/content/dam/gin/images/2019/04/star-wars-jedi-home-hero-large-xl.jpg.adapt.crop1x1.767p.jpg"
+    },
+    {
+      "id": "nfsheat",
+      "description": "Build your player, pick your gear and express your style on the streets in football playgrounds all over the world",
+      "name": "Need For Speed - Heat",
+      "price": "86$",
+      "details": "OWN THE DARK, CHASE THE LIGHT - Lay it all on the line in the Speedhunter Showdown and compete to win Bank in race, drift, and off-road events. Then take on the city by night and hit up underground street races to build your reputation. EXPRESS YOURSELF - Customize your fleet of cars and personalize your identity behind the wheel. Be unique and make sure everyone knows who you are. BEAT THE HEAT - You’ll have to go out of your way to rile up the cops patrolling Palm City during daylight hours. But after dark, the rules change: a rogue task force comes out to play, and they’re on the hunt for you and your wheels.",
+      "imageURL": "https://media.contentapi.ea.com/content/dam/gin/images/2019/08/nsfh-keyart-gin.jpg.adapt.crop1x1.767p.jpg"
+    },
+    {
+      "id": "fifa20",
+      "description": "BURN ALL LIMITS : Need for Speed™ Heat is an adrenaline-fueled, vibrant racing game where the lines of the law fade as the sun starts to set.",
+      "name": "FIFA 20 - Champions Edition",
+      "price": "89$",
+      "imageURL": "https://media.contentapi.ea.com/content/dam/gin/images/2019/06/fifa20-gin-keyart.jpg.adapt.crop1x1.767p.jpg",
+      "details": "With all 36 Bundesliga and Bundesliga 2 teams, 13 new stadiums across both leagues, over 180 new head scans, and the official broadcast package, only FIFA 20 lets you experience the Bundesliga as it was meant to be played. From Career Mode to VOLTA FOOTBALL, whether you play as the reigning champions FC Bayern, Dortmund, Schalke, or Werder Bremen, enjoy full and exclusive Bundesliga authenticity throughout FIFA 20 on PlayStation 4, Xbox One, and PC."
+    },
+    {
+      "id": "nfl20",
+      "description": "Compete in head-to-head online and offline games (single and multi-player) or single player offline against the CPU. Customize your game settings including time of quarters, rules, stadiums, and uniforms.",
+      "name": "MADDEN NFL 20",
+      "imageURL": "https://media.contentapi.ea.com/content/dam/gin/images/2019/06/fifa20-gin-keyart.jpg.adapt.crop1x1.767p.jpg",
+      "price": "45$",
+      "details": "Feel like an NFL Superstar in Madden NFL 20. Be the Face of an NFL franchise where the decisions you make matter in your journey to become an NFL Superstar in ‘FACE OF THE FRANCHISE: QB1’. Feel the emotion, personality, and power of NFL Superstars with ‘SUPERSTAR X-FACTOR’, an all-new abilities progression system that reveals special abilities for today’s most exciting NFL Superstars heightening the level strategy and excitement in every game."
+    },
+    {
+      "id": "sos",
+      "description": "Journey with Kay, a lonely woman who has turned into a monster. Explore an evolving world where nothing is quite what it seems.",
+      "name": "Sea of Soltitude",
+      "imageURL": "https://media.contentapi.ea.com/content/dam/gin/images/2019/06/sos-section-keyart-xl.jpg.adapt.crop1x1.767p.jpg",
+      "price": "55$",
+      "details": "The waters ahead are dark, and you can’t see far, but you always have a light to guide you. Sea of Solitude is out today – get ready to set sail with Kay, a young woman who has turned into a monster, as she navigates unfamiliar seas in search of a way to change back.Meet the monsters who fill this strange world, uncover secrets hidden beneath the waves, and find out what it means to be human."
+    },
+    {
+      "id": "anthem",
+      "description": "LOOK TO THE SKIES – THE CATACLYSM IS HERE",
+      "name": "Anthem",
+      "imageURL": "https://media.contentapi.ea.com/content/dam/gin/images/2017/07/anthem-key-art.jpg.adapt.crop1x1.767p.jpg",
+      "price": "20$",
+      "details": "TRIUMPH AS ONE - Team with up to three other players in cooperative adventures that reward both combined effort and individual skill. Each player’s choice of javelin exosuit will shape their contribution and strategic role. As you explore, you will discover a gripping story filled with unique and memorable characters. Seamless and intelligent matchmaking will ensure you can quickly and easily find other players to adventure alongside."
+    },
+    {
+      "id": "apexlegends",
+      "description": "THE NEXT EVOLUTION OF BATTLE ROYALE - Show ‘em what you’re made of in Apex Legends, a free-to-play Battle Royale game where contenders from across the Frontier team up to battle for glory, fame, and fortune.",
+      "imageURL": "https://media.contentapi.ea.com/content/dam/gin/images/2019/01/apex-legends-keyart.jpg.adapt.crop1x1.767p.jpg",
+      "name": "Apex Legends",
+      "price": "42$",
+      "details": "Legendary Characters - Explore a growing roster of powerful Legends, each with their own unique personality, strengths, and abilities.The Ultimate Squad - Choose your Legend, team up with two other players, and combine your unique skills to be the last squad standing. Strategic Battle Royale - Master your Legend’s abilities, make strategic calls on the fly, and use your team’s strengths to your advantage in vicious 60-player matches."
+    },
+    {
+      "id": "bf5",
+      "description": "TACKLE ALL-OUT INFANTRY COMBAT ON TWO NEW MAPS: PROVENCE AND LOFOTEN ISLANDS",
+      "name": "Battlefield V",
+      "imageURL": "https://media.contentapi.ea.com/content/dam/gin/images/2018/05/bfv-campaignart-standard-large.jpg.adapt.crop1x1.767p.jpg",
+      "price": "90$",
+      "details": "Enter mankind’s greatest conflict with Battlefield™ V as the series goes back to its roots with a never-before-seen portrayal of World War 2. Lead your squad to victory in all-new multiplayer experiences like the multi-map Grand Operations. Fight across the globe in the single-player War Stories campaign. Assemble your Company of customized soldiers, weapons, and vehicles – then take them on an expanding journey through Tides of War. This is the most intense, immersive, and innovative Battlefield yet. You will never be the same."
+    },
+    {
+      "id": "ironforce2",
+      "imageURL": "https://media.contentapi.ea.com/content/dam/gin/images/2018/07/iron-force-2-key-art.jpg.adapt.crop1x1.767p.jpg",
+      "description": "Prepare for all-out war in thrilling 5v5 tank battles with real players around the globe! Jump into the fight with just one tap and go to war with intuitive arcade gameplay and pick-up-and-play controls. Experience the excitement of real-time combat as you control your team's fleet of powerful tanks and defy opposing squads with guns booming! Squad up and join the fight!",
+      "name": "IRON FORCE 2",
+      "price": "56$",
+      "details": "Prepare for all-out war in thrilling 5v5 tank battles with real players around the globe! Jump into the fight with just one tap and go to war with intuitive arcade gameplay and pick-up-and-play controls. Experience the excitement of real-time combat as you control your team's fleet of powerful tanks and defy opposing squads with guns booming! Squad up and join the fight!"
+    },
+    {
+      "id": "Unravel2",
+      "description": "Adventure is better when you’re together. Play as two adorable Yarnys and explore a blossoming world",
+      "imageURL": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/simcity-key-art.jpg.adapt.crop1x1.767p.jpg",
+      "name": "Unravel Two",
+      "price": "86$",
+      "details": "It’s a platforming adventure game seen from a unique perspective, or two. Play as a pair of Yarnys – small beings made of yarn and connected by a single thread – in local co-op or as a single player. Run, jump and swing through platforming puzzles, foster friendship, and shed light on a world covered in shadow.When you cut ties to the past, new bonds form. In Unravel™ Two, create relationships with other Yarnys in local co-op or as a single player, fostering friendship and support as you solve challenges together. Chase the spark of adventure through stunning landscapes to watch your surroundings blossom with new life."
+    },
+    {
+      "id": "mirrorsedge",
+      "imageURL": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/mirrors-edge-keyart.jpg.adapt.crop1x1.767p.jpg",
+      "description": "Run, leap and fight your way to freedom in the city of Glass. Get ready to hit the ground running in this fast-paced, free-running adventure with stunning visuals. Experience Faith's incredible freedom of movement as she darts up walls, zips down wires and makes death-defying leaps from rooftop to rooftop. Combine her punishing martial arts skills with a mastery of the surroundings to take out any enemies she can't outrun.",
+      "name": "Mirrors's Edge",
+      "price": "36$",
+      "details": "Run, leap and fight your way to freedom in the city of Glass. Get ready to hit the ground running in this fast-paced, free-running adventure with stunning visuals. Experience Faith's incredible freedom of movement as she darts up walls, zips down wires and makes death-defying leaps from rooftop to rooftop. Combine her punishing martial arts skills with a mastery of the surroundings to take out any enemies she can't outrun.Run, leap and fight your way to freedom in the city of Glass. Get ready to hit the ground running in this fast-paced, free-running adventure with stunning visuals. Experience Faith's incredible freedom of movement as she darts up walls, zips down wires and makes death-defying leaps from rooftop to rooftop. Combine her punishing martial arts skills with a mastery of the surroundings to take out any enemies she can't outrun."
+    },
+    {
+      "id": "simcity",
+      "description": "Experience the newest version of SimCity - the greatest city-simulator of all time. This collection is packed with an expanded core game, the SimCity: Cities of Tomorrow expansion pack, and the Amusement Park, Airship, French, British and German City sets. Create the city you desire and make choices that will shape your city and the Sims in it. Focus on industry, or consumerism and your economy will soar – but at the expense of your Sims' health as pollution spreads. Implement green technology and improve your Sims’ lives while risking higher taxes and unemployment. The choice is yours.",
+      "name": "SIM CITY",
+      "imageURL": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/simcity-key-art.jpg.adapt.crop1x1.767p.jpg",
+      "price": "52$",
+      "details": "GlassBox Engine - SimCity introduces GlassBox, the revolutionary simulation technology that gives you the power to impact individual Sims lives, manage city level simulation, and balance multiple city simulations at once. Sims Matter - The Sims in your city speak to you directly and it’s up to you to respond to their needs. Will you listen and be the toast of the town? Or abuse your power for fame and fortune?. Constructible Worlds - Creative and customizable world that offers unique gameplay benefits, all with a fun tactile interface. Multiplayer - Build a region with friends for the first time! Collaborate or compete in regional and global challenges and make decisions that impact the greater SimCity World. Specialise in What You Love -  Mold your city as a casino resort, manufacturing hub, educational enclave, and more, then watch as a unique look and feel spread throughout your city."
+    },
+    {
+      "id": "secretworld",
+      "imageURL": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/simcity-key-art.jpg.adapt.crop1x1.767p.jpg",
+      "description": "The Secret World is a massively multiplayer online world with a unique modern-day setting and unparalleled freedom of character progression.",
+      "name": "THE SECRET WORLD",
+      "price": "95$",
+      "details": "A storyline unlike anything seen in an MMO - From creative mind of Ragnar Tørnquist – creator of the award-winning The Longest Journey – comes a story unlike any before seen in an MMO.A storyline unlike anything seen in an MMO - From creative mind of Ragnar Tørnquist – creator of the award-winning The Longest Journey – comes a story unlike any before seen in an MMO."
+    }
+  ]
+}
